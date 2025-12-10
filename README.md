@@ -10,7 +10,7 @@
 
 Aplicativo de gravador de tela desenvolvido com **Electron Forge**, que permite capturar vídeos da tela do seu computador com áudio e microfone, de forma simples e intuitiva!
 
-💜 - **Faça download para windows** [aqui!](https://github.com/laracmiranda/Yuno_Recorder_APP/releases/tag/v1.0.0)
+💜 - **Faça download para windows** [aqui!](https://github.com/laracmiranda/Yuno_Recorder_APP/releases/tag/v2.0.0)
 
 ## 📸 Demonstração rápida
 
@@ -117,4 +117,5 @@ O executável será gerado na pasta `out/`.
 
 ## 📄 Licença
 
-Este projeto está sob a licença **MIT**. Sinta-se livre para usar, modificar e compartilhar.
+Este projeto está sob a licença **GPL-2.0**. Todos os contribuidores desse projeto estão sob a licença. 
+Sinta-se livre para contribuir ou utilizar o app!
